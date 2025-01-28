@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/ramly-image-behind-text.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('ramly-image-behind-text.jpg');
   background-position: 50% 50%;
 }
 
@@ -93,7 +93,7 @@
 
 .u-section-2 .u-image-1 {
   min-height: 431px;
-  background-image: url("images/Satay-Promo-uza.jpg");
+  background-image: url("Satay-Promo-uza.jpg");
   background-position: 50% 50%;
 }
 
@@ -407,7 +407,7 @@
 
 .u-section-5 .u-image-1 {
   min-height: 315px;
-  background-image: url("images/ramly_product_list.jpg");
+  background-image: url("ramly_product_list.jpg");
   background-position: 50% 50%;
 }
 
@@ -471,7 +471,7 @@
 
 .u-section-5 .u-image-2 {
   min-height: 315px;
-  background-image: url("images/RAMLY_COMPANY.jpg");
+  background-image: url("RAMLY_COMPANY.jpg");
   background-position: 50% 50%;
 }
 
@@ -546,7 +546,7 @@
     padding: 11px 27px 13px 25px;
   }
 } .u-section-6 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('images/maxresdefault.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('maxresdefault.jpg');
   background-position: 50% 50%;
 }
 
@@ -823,7 +823,7 @@
     min-height: 348px;
   }
 } .u-section-8 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/RAMLY_CONTACT_FORM.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('RAMLY_CONTACT_FORM.jpg');
   background-position: 50% 50%;
   padding: 0;
 }
